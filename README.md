@@ -9,3 +9,11 @@ There is a growing demand for consuming news content in regional languages like 
 * Quickly grasp the key points of news articles without having to read the entire piece.
 * Stay informed about current events in their native language.
 * Enhance their overall engagement with Telugu news media.
+
+### Contributions:
+
+* Data Collection and Preprocessing Section: Charan Sai, Raghu Prashanka, Badreesh
+* Webscrapimg Section: Badreesh, Varun
+* Model Training Section: Charan Sai, Raghu Prashanka, Badreesh
+* Summarizer code Section: Dhanush, Varun
+* Interface: Dhanush
