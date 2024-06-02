@@ -13,7 +13,7 @@ There is a growing demand for consuming news content in regional languages like 
 ### Contributions:
 
 * Data Collection and Preprocessing Section: Charan Sai, Raghu Prashanka, Badreesh
-* Webscrapimg Section: Badreesh, Varun
+* Webscraping Section: Badreesh, Varun
 * Model Training Section: Charan Sai, Raghu Prashanka, Badreesh
 * Summarizer code Section: Dhanush, Varun
 * Interface: Dhanush
