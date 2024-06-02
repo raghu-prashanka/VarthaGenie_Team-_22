@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, Seq2SeqTrainer, S
 from datasets import Dataset
 
 # Load the dataset
-file_path = 'own_dataset.json'
+file_path = 'dataset.json'
 with open(file_path, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
